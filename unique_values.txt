@@ -1,0 +1,71 @@
+Age
+AlcoholConsumption
+BMI
+BloodPressure
+ChestPainType
+Cholesterol
+Diabetes
+Diet
+ECGResults
+EducationLevel
+EmploymentStatus
+Ethnicity
+ExerciseInducedAngina
+FamilyHistory
+Gender
+HeartRate
+Hypertension
+Income
+MaritalStatus
+MaxHeartRate
+Medication
+NumberOfMajorVessels
+Outcome
+PhysicalActivity
+PreviousHeartAttack
+Residence
+ST_Depression
+Slope
+Smoker
+StressLevel
+StrokeHistory
+Thalassemia
+Asian
+Asymptomatic
+Atypical
+Black
+College
+Divorced
+Downsloping
+Employed
+Female
+Fixed defect
+Flat
+Healthy
+Heart Attack
+High School
+Hispanic
+LV hypertrophy
+Male
+Married
+Moderate
+No
+No Heart Attack
+Non-anginal
+Normal
+Other
+Postgraduate
+Retired
+Reversible defect
+Rural
+ST-T abnormality
+Single
+Suburban
+Typical
+Unemployed
+Unhealthy
+Upsloping
+Urban
+White
+Widowed
+Yes
